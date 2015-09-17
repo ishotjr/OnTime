@@ -1,0 +1,36 @@
+
+# Site settings
+title: OnTime
+# email: your-email@domain.com
+description: > 
+  The site to WATCH for curated highlights from the world of Pebble
+baseurl: ""		# no trailing slash
+url: "http://ishotjr.github.io/OnTime"	# no trailing slash
+excerpt_separator: <!--more—->
+
+about: > 
+  OnTime is a discovery portal for Pebble watchfaces, watchapps, dev tools, libraries, hacks,
+  and other exciting highlights from the Pebble community.
+footer: > 
+  Got something to add?  <a href="/OnTime/about">Submit a Pull Request!</a>
+twitter_username:    IShJR
+github_username:     ishotjr
+#facebook_username:   TODO
+#linkedin_username:   TODO
+#google_username:     TODO
+#youtube_username:    ishotjrdotcom
+#instagram_username:  ishjr
+#reddit_username:     ishjr
+#tumblr_username:     ishotjr
+#lastfm_username:  	 ishotjrdotcom
+#soundcloud_username: ishjr
+#miiverse_username:   ishotjr
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  input: GFM
+
+gems:
+- jemoji
