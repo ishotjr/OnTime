@@ -6,7 +6,7 @@ description: >
   The site to WATCH for curated highlights from the world of Pebble
 baseurl: "/OnTime"		# no trailing slash
 url: "http://ishotjr.github.io/OnTime"	# no trailing slash
-excerpt_separator: <!--more—->
+excerpt_separator: <!--more-->
 
 about: > 
   OnTime is a discovery portal for Pebble watchfaces, watchapps, dev tools, libraries, hacks,
