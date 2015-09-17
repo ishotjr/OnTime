@@ -4,7 +4,7 @@ title: OnTime
 # email: your-email@domain.com
 description: > 
   The site to WATCH for curated highlights from the world of Pebble
-baseurl: ""		# no trailing slash
+baseurl: "/OnTime"		# no trailing slash
 url: "http://ishotjr.github.io/OnTime"	# no trailing slash
 excerpt_separator: <!--more—->
 
